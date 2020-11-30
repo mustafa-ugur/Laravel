@@ -1,1 +1,1 @@
-Laravel E-Ticaret Projem
+Laravel Eğitim E-Ticaret Projesi
